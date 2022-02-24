@@ -1,6 +1,6 @@
 import sys
 import random
-from termcolor import colored
+##from termcolor import colored
 import pandas as pd
 import os
 
